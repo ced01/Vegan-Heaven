@@ -13,15 +13,13 @@
 
         <nav>
             <p>
-
-             
             <ul>
                 
                 <li><a href="Accueil.php">Accueil</a></li>
                 <li><a href="Recherche.php">Voir les offres</a></li>
-                <li><a href="A propos.php">A propos</a></li>
+                <li><a href="FAQ.php">A propos</a></li>
                 <li><a href="Forum.php">A propos</a></li>
-                <li><a href="connecter.php">Se connecter</a></li>
+                <li><a href="ConnectionInscription.php">Connection/Inscription</a></li>
 
                 
             </ul>

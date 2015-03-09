@@ -8,6 +8,26 @@
             <![endif]-->
     </head>
      <body>
+        <div>
+
+
+        <nav>
+            <p>
+
+             
+            <ul>
+                
+                <li><a href="Accueil.php">Accueil</a></li>
+                <li><a href="Recherche.php">Voir les offres</a></li>
+                <li><a href="FAQ.php">A propos</a></li>
+                <li><a href="Forum.php">Forum</a></li>
+                <li><a href="ConnectionInscription.php">Connection/Inscription</a></li>
+
+                
+            </ul>
+            </p>
+        </nav>
+        </div>
      
      </body>
     </html>
