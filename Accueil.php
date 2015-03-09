@@ -41,7 +41,7 @@
             <p>
                 Vous pouvez rechercher un fruit ou d’un légume, par catégories ou variété mais aussi par saison, par origine,
                 par maturité, par poids, par quantité. Inscrivez vous et partager, recevez des produit les plus savoureux les 
-                uns que les autres 
+                uns que les autres. 
             </p>
             
 
