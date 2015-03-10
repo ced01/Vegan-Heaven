@@ -16,7 +16,7 @@
             <p>
             <ul>
                 
-                <li><img src="bloggif_54ddf13e82321.jpeg" class="imageflottante"  alt="Logo VeganHeaven"/><a href="Accueil.html">Accueil</a></li>
+                <li><a href="Accueil.html">Accueil</a><img src="bloggif_54ddf13e82321.jpeg" class="imageflottante"  alt="Logo VeganHeaven"/></li>
                 <li><a href="Recherche.php">Voir les offres</a></li>
                 <li><a href="FAQ.php">A propos</a></li>
                 <li><a href="Forum.php">A propos</a></li>
